@@ -1,0 +1,15 @@
+[project]
+name = "smart-shopper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asgiref>=3.9.1",
+    "django>=5.0.0",
+    "djangorestframework>=3.16.1",
+    "httpx>=0.28.1",
+    "python-decouple>=3.8",
+    "redis>=6.4.0",
+    "requests>=2.32.5",
+]
