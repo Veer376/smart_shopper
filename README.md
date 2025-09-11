@@ -1,6 +1,10 @@
-# Smart Shopper Assistant 🛒
+# Smart Shopper 🛒
 
 A intelligent Django REST API that provides real-time product search capabilities using SerpAPI's Google Shopping integration. Built with performance optimization, caching, and comprehensive analytics.
+
+
+https://github.com/user-attachments/assets/b99cd640-a033-4581-806c-2aa376930708
+
 
 ## 🚀 Quick Start
 
